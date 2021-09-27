@@ -1,4 +1,4 @@
-
-/bin
-/lib
-*.cfg
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
